@@ -7,7 +7,7 @@
 
 An intelligent Streamlit-based application that helps developers **generate, review, and document code** in multiple languages — **Python, C++, and Java**.  
 It supports both **online AI models** (Groq, GPT-4, Mistral) and an **offline fallback mode** for local use.
-
+ 
 ---
 
 ## Features  
